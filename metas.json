@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": false
+  },
+  {
+    "value": "Acordar cedo todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Estudar 2 horas por dia",
+    "checked": false
+  },
+  {
+    "value": "Fazer exercícios ao menos 3x por semana",
+    "checked": false
+  }
+]
